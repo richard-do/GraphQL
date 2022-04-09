@@ -1,0 +1,15 @@
+schema {
+	query: Query
+}
+
+type Query{
+	getStudentById(id: ID) : Student
+	getStudents : [Student]
+}
+
+type Student {
+	id: ID
+	name: String
+	course: String
+	grade: Int
+}
