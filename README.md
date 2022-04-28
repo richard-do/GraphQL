@@ -6,4 +6,4 @@ Individual students can be placed with POST, list of students with PUT, and quer
 
 See https://graphql.org/ to understand the structure of the queries.
 
-School project where we were given freedom to pick anything that can be utilized with Spring Boot and create an application using it.
+GraphQL allows developers to query entities and pick out specific properties they wish to return.  School project where we were given freedom to pick anything that can be utilized with Spring Boot and create an application using it.
