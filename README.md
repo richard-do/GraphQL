@@ -5,3 +5,5 @@ To run, simply run the application as a spring boot application.  After that use
 Individual students can be placed with POST, list of students with PUT, and query with GET mappings.
 
 See https://graphql.org/ to understand the structure of the queries.
+
+School project where we were given freedom to pick anything that can be utilized with Spring Boot and create an application using it.
